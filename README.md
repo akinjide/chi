@@ -22,3 +22,15 @@ For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
   *  `git:master` **color: White** committed files
 
 
+### How To Install
+
+1. [Download](https://github.com/andela-abankole/Buttons.git)
+2. Copy **themes** folder that contains `chi.zsh-theme`
+3. Open Terminal, enter `defaults write com.apple.finder AppleShowAllFiles YES` to show hidden files and folders
+4. Go to your home directory and find `.oh-my-zsh` folder, right click and open in new tab, enter the custom folder
+5. Paste the **themes** folder you copied into the custom folder and close finder
+6. Enter your oh-my-zsh configuration file by entering `vi ~/.zshrc`, and press **i** key to enter edit mode
+7. Change your current theme `ZSH_THEME="robbyrussell"` to `ZSH_THEME="chi"`, and press **esc** key to leave edit mode
+8. Press `:wq` to leave **Vi** mode
+9. Enter `source ~/.zshrc` to save the configuration
+10. Done, Enjoy your new theme!!
