@@ -1,3 +1,14 @@
+# -----------------------------------------------------------------------------
+# FILE: chi.zsh-theme
+# DESCRIPTION: oh-my-zsh theme file.
+# AUTHOR: Akinjide Bankole
+#   TWITTER: (https://twitter.com/JideBhanks)
+#   GITHUB: (https://github.com/andela-abankole)
+# VERSION: 0.1
+# SCREENSHOT: Available on Repo
+# REPOSITORY: https://github.com/andela-abankole/chi
+# -----------------------------------------------------------------------------
+
 # ########## SYSTEM VARIABLE FOR HOME DIR ###########
 
 function get_pwd() {
