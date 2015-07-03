@@ -24,7 +24,7 @@ For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
 
 ### How To Install
 
-1. [Download](https://github.com/andela-abankole/Buttons.git)
+1. [Download](https://github.com/andela-abankole/chi/archive/master.zip) || Clone the URL
 2. Copy **themes** folder that contains `chi.zsh-theme`
 3. Open Terminal, enter `defaults write com.apple.finder AppleShowAllFiles YES` to show hidden files and folders
 4. Go to your home directory and find `.oh-my-zsh` folder, right click and open in new tab, enter the custom folder
