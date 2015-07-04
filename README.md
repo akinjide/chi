@@ -1,6 +1,6 @@
 # chi.zsh-theme
 
-## v1
+## v2
 
 A ZSH theme built for people who want:
   * Simple Terminal (I use iTerms)
