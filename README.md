@@ -20,6 +20,7 @@ For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
  * Git Status
   * `✹git:master` **color : Red** unstaged commit
   *  `git:master` **color: White** committed files
+  * `○` shows if current directory is a git folder || git branch
 
 
 ### How To Install
