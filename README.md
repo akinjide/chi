@@ -3,7 +3,7 @@
 ## v2
 
 A ZSH theme built for people who want:
-  * Simple Terminal (I use iTerms)
+  * Simple Terminal (I use iTerm)
   * Git Status for each working folder
 
 For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
