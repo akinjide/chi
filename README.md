@@ -27,7 +27,7 @@ For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
 
 #### [oh-my-zsh](http://ohmyz.sh/)
 
-1. [Download](https://github.com/andela-abankole/chi/archive/master.zip) || Clone the URL
+1. [Download](https://github.com/akinjide/chi/archive/master.zip) || Clone the URL
 2. Copy **themes** folder that contains `chi.zsh-theme`
 3. Open Terminal, enter `defaults write com.apple.finder AppleShowAllFiles YES` to show hidden files and folders
 4. Go to your home directory and find `.oh-my-zsh` folder, right click and open in new tab, enter the custom folder
@@ -40,6 +40,6 @@ For Mac Users, I highly recommend iTerm 2 + Afterglow for Sublime Text
 
 #### [zgen](https://github.com/tarjoilija/zgen)
 
-1. Add `zgen load andela-abankole/chi themes` to your `.zshrc` with your other `zgen load` commands
+1. Add `zgen load akinjide/chi themes` to your `.zshrc` with your other `zgen load` commands
 2. `zgen save` to create a new `init.zsh`
 3. start a new iTerm window to load the new configuration.
